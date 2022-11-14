@@ -2,6 +2,24 @@
 
 [Python](https://www.python.org/) 
 
+```git
+##Configurar o terminal (solo una vez)
+
+git config --global use.name 'seu nome'
+git config --global use.emial 'seuemail@gmail.com'
+
+
+##Criar uma pasta, dentro dela criar um arquivo e fazer commit
+
+mkdir pythoncurso
+cd pythoncurso
+touch index.py
+ls
+git init
+git add .
+git commit -m 'praticando com git'
+git log
+```
 
 ```python
 #Diferença entre usar CONTINUE E BREAK no Loop
