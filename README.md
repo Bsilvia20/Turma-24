@@ -3,7 +3,7 @@
 [Python](https://www.python.org/) 
 
 ```git
-##Configurar o terminal (solo una vez)
+##Configurar o terminal (só uma vez)
 
 git config --global use.name 'seu nome'
 git config --global use.emial 'seuemail@gmail.com'
